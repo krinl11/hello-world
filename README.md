@@ -1,2 +1,5 @@
 # hello-world
 My first repository
+
+I am learning how to use GitHub. 
+I will become an intermediate developer in a year. 
